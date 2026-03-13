@@ -1,7 +1,0 @@
-name: Reloader
-version: 1.0
-main: de.reloader.Main
-api: ["1.0.11"]
-commands:
-  reloadplugins:
-    description: "Reloads all Plugins"
